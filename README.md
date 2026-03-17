@@ -1,3 +1,5 @@
+hi
+
 <div align="center">
   <img src="assets/about.png" alt="ContextPilot Logo" width="600"/>
 
