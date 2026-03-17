@@ -8,3 +8,6 @@ dist/
 */.DS_Store
 *.DS_Store
 
+tests_2/
+
+tests_3/
